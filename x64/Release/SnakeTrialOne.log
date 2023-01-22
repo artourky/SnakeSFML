@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\SnakeTrialOne\main.cpp(58,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\SnakeTrialOne\main.cpp(75,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SnakeTrialOne\main.cpp(75,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SnakeTrialOne\main.cpp(52,12): warning C4101: 'last': unreferenced local variable
